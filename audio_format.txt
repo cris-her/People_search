@@ -1,0 +1,4 @@
+Bit rate 256 kb/s
+Channels 1
+Sampling rate 16 khz
+Bit depth 16 bits
